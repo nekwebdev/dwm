@@ -5,6 +5,7 @@ dwm is an extremely fast, small, and dynamic window manager for X.
 ## Patches
 
 - [dwm-dwmc-6.2.diff](https://dwm.suckless.org/patches/dwmc/)
+- [dwm-xresources-20210827-138b405.diff](https://dwm.suckless.org/patches/xresources/)
 
 ## Requirements
 
